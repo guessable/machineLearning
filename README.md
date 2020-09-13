@@ -1,15 +1,16 @@
 
 ## 线性模型
 
-### 线性回归(LR)
-![image](https://github.com/guessable/machineLearning/blob/master/figure/linear_model/lin_reg.png)
+* [线性回归](https://github.com/guessable/machineLearning/blob/master/linear_model/plot.md)
+* [线性判别分析](https://github.com/guessable/machineLearning/blob/master/linear_model/plot.md)
+* [对数几率回归（逻辑回归）](https://github.com/guessable/machineLearning/blob/master/linear_model/plot.md)
 
-### 岭回归
-![image](https://github.com/guessable/machineLearning/blob/master/figure/linear_model/Ri_reg.png)
+## 采样
 
-### 线性判别模型(LDA)
-![image](https://github.com/guessable/machineLearning/blob/master/figure/linear_model/LDA.png)
+* [拒绝域采样](https://github.com/guessable/machineLearning/blob/master/sampler/plot.md)
+* [重要性采样](https://github.com/guessable/machineLearning/blob/master/sampler/plot.md)
+* [MCMC](https://github.com/guessable/machineLearning/blob/master/sampler/plot.md)
+	* [M-H(Mertropolis-Hastings)算法](https://github.com/guessable/machineLearning/blob/master/sampler/plot.md)
+		* [Mertropolis算法](https://github.com/guessable/machineLearning/blob/master/sampler/plot.md)
+    * [gibbs](https://github.com/guessable/machineLearning/blob/master/sampler/plot.md)
 
-### 对数几率回归(逻辑回归)
-
-## 决策树(TODO)

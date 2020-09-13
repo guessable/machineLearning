@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 def class_one(x):
     '''
     类别1：
-        产生于y=x(x+1)
+        产生于y=x^2 + 1
     '''
     y = x*x + 1
     X = np.c_[x, y]
@@ -22,7 +22,7 @@ def class_one(x):
 def class_two(x):
     '''
     类别2:
-        产生于y=x-1
+        产生于y=-x^2 - 1
     '''
     y = -1 - x*x
     X = np.c_[x, y]
