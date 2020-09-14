@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # _*_ coding:utf-8 _*_
-# Author        : Cheng Tao
-# Last modified : 2020-09-11 18:57
-#Filename      : gibbs.py
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -62,18 +59,6 @@ for t in range(T-1):
     y_star = np.random.normal(loc=mu_4, scale=sigma_4)
     sample[t-1][1] = y_star
 
-
-#  x_1 = np.linspace(-2, 10, 500)
-#  y_1 = (1/np.sqrt(2*PI))*np.exp(-0.5*(x_1-5)**2)
-
-#  x_2 = np.linspace(-8, 4, 500)
-#  y_2 = (1/np.sqrt(2*PI*4))*np.exp((-1/8)*(x_2+1)**2)
-
-#  plt.hist(sample[:, 0:1], bins=50, density=True)
-#  plt.hist(sample[:, 1:2], bins=50, density=True)
-#  plt.plot(x_1, y_1)
-#  plt.plot(x_2, y_2)
-#  plt.show()
 
 mean = [0, 0]
 cov = [[1, 0.5], [0.5, 1]]

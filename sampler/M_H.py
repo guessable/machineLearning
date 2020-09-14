@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 # _*_ coding:utf-8 _*_
-# Author        : Cheng Tao
-# Last modified : 2020-09-10 20:09
 # Filename      : tes.py
 
 import numpy as np
