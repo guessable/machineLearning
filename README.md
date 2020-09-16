@@ -21,6 +21,12 @@
 
 * [手写数字识别](https://github.com/guessable/machineLearning/blob/master/MNIST)
 
+### PCA
+* [主成分分析](https://github.com/guessable/machineLearning/blob/master/PCA)
+
+### SVM
+* [软间隔高斯核函数支持向量机](https://github.com/guessable/machineLearning/blob/master/SVM)
+
 ### 采样
 
 * [拒绝域采样](https://github.com/guessable/machineLearning/blob/master/sampler)
