@@ -27,6 +27,10 @@
 ### SVM
 * [软间隔高斯核函数支持向量机](https://github.com/guessable/machineLearning/blob/master/SVM)
 
+### Bayes
+* [EM算法](https://github.com/guessable/machineLearning/blob/master/Bayes)
+* [朴素贝叶斯](https://github.com/guessable/machineLearning/blob/master/Bayes)
+
 ### 采样
 
 * [拒绝域采样](https://github.com/guessable/machineLearning/blob/master/sampler)
