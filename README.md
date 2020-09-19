@@ -1,6 +1,16 @@
 
 ## 算法理论
 
+* [约束优化](https://github.com/guessable/machineLearning/blob/master/math/约束优化.md)
+* [马尔可夫链](https://github.com/guessable/machineLearning/blob/master/math/马尔可夫链.md)
+* [交叉熵与KL散度](https://github.com/guessable/machineLearning/blob/master/math/交叉熵与KL散度.md)
+
+### 支持向量机
+* [推导](https://github.com/guessable/machineLearning/blob/master/SVM/svm.md)
+* [软间隔](https://github.com/guessable/machineLearning/blob/master/SVM/svm.md)
+* [核技巧](https://github.com/guessable/machineLearning/blob/master/SVM/svm.md)
+* [SMO算法](https://github.com/guessable/machineLearning/blob/master/SVM/svm.md)
+
 - [ ] TODO
 
 ## 算法实现
