@@ -1,9 +1,9 @@
 
 ## 算法理论
 
-* [约束优化](https://github.com/guessable/machineLearning/blob/master/math/约束优化.md)
-* [马尔可夫链](https://github.com/guessable/machineLearning/blob/master/math/马尔可夫链.md)
-* [交叉熵与KL散度](https://github.com/guessable/machineLearning/blob/master/math/交叉熵与KL散度.md)
+* [约束优化](https://github.com/guessable/machineLearning/blob/master/math/约束优化.ipynb)
+* [马尔可夫链](https://github.com/guessable/machineLearning/blob/master/math/马尔可夫链.ipynb)
+* [交叉熵与KL散度](https://github.com/guessable/machineLearning/blob/master/math/交叉熵与KL散度.ipynb)
 
 ### 支持向量机
 * [推导](https://github.com/guessable/machineLearning/blob/master/SVM/svm.md)
