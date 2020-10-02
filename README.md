@@ -11,6 +11,13 @@
 * [核技巧](https://github.com/guessable/machineLearning/blob/master/SVM/svm.md)
 * [SMO算法](https://github.com/guessable/machineLearning/blob/master/SVM/svm.md)
 
+### 集成学习
+* [AdaBoost]
+* [GDBT]
+* [xgboost](https://github.com/guessable/machineLearning/blob/master/xgboost/xgboost.ipynb)
+* [Bagging]
+* [Random Forest]
+
 - [ ] TODO
 
 ## 算法实现
