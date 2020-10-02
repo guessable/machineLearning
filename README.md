@@ -16,7 +16,7 @@
 * [GDBT]
 * [xgboost](https://github.com/guessable/machineLearning/blob/master/xgboost/xgboost.ipynb)
 * [Bagging]
-* [Random Forest]
+* [Random Forest](https://github.com/guessable/machineLearning/blob/master/sklearn/RF.py)
 
 - [ ] TODO
 
